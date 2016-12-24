@@ -1,3 +1,9 @@
+Designed and implemented an Oozie workflow to find out:
+
+  the 3 airlines with the highest and lowest probability, respectively, for being on schedule;
+  the 3 airports with the longest and shortest average taxi time per flight (both in and out), respectively; and
+  the most common reason for flight cancellations.
+
 1. src directory contains the FlightDataAnalysis.java file consisting of 3 mapreduce programs
 
 2. map-reduce directory contains job.properties & workflow.xml files
