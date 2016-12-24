@@ -1,0 +1,579 @@
+#########################################################################
+(a) The 3 airlines with lowest/highest probability for being on schedule
+#########################################################################
+
+Year 1987
+
+Airlines with lowest probability
+
+	PS	0.5084987227353115
+	DL	0.5299745696720196
+	PI	0.5552949352792981
+
+Airlines with highest probability
+
+	AA	0.6956318530954622
+	PA (1)	0.6903596252644303
+	EA	0.6775131673676632
+
+Year 1987-1988
+
+Airlines with lowest probability
+
+	PI	0.594090338856875
+	US	0.6068720041600665
+	TW	0.6353089037214096
+
+Airlines with highest probability
+
+	WN 0.7241455278876736
+	AA 0.721602159897942
+	HP 0.7103993370372516
+
+Year 1987-1989
+
+Airlines with lowest probability
+
+	PI	0.5591474920813863
+	US	0.579900610331278
+	UA	0.6331135033307302
+
+Airlines with highest probability
+
+	AA	0.7116267797481697
+	EA	0.7074420607333002
+	HP	0.6998578578339445
+
+Year 1987-1990
+
+Airlines with lowest probability
+
+	PI	0.5591474920813863
+	US	0.6281276913486975
+	UA	0.6452050950828004
+
+Airlines with highest probability
+
+	EA	0.7165439209480622
+	AA	0.7070721269070043
+	PA (1)	0.7023354547619144
+
+
+Year 1987-1991
+
+Airlines with lowest probability
+
+	PI	0.5591474920813863
+	DL	0.6489872142014428
+	PS	0.6532633395307013
+
+Airlines with highest probability
+
+	ML (1)	0.754655015263531
+	PA (1)	0.7199392491555248
+	AA	0.7177524072579102
+
+Year 1987-1992
+
+Airlines with lowest probability
+
+	PI	0.5591474920813863
+	DL	0.6439633072200168
+	PS	0.6532633395307013
+
+Airlines with highest probability
+
+	ML (1)	0.754655015263531
+	NW	0.7318753296079241
+	WN	0.7203358651688275
+
+
+Year 1987-1993
+
+Airlines with lowest probability
+
+	PI	0.5591474920813863
+	DL	0.635946097183277
+	PS	0.6532633395307013
+
+Airlines with highest probability
+
+	ML (1)	0.754655015263531
+	NW	0.7434295215808964
+	WN	0.7332333824453034
+
+
+Year 1987-1994
+
+Airlines with lowest probability
+
+	PI	0.5591474920813863
+	DL	0.6384355516692707
+	PS	0.6532633395307013
+
+Airlines with highest probability
+
+	ML (1)	0.754655015263531
+	NW	0.7507147830130032
+	WN	0.7316208037414301
+
+
+Year 1987-1995
+
+Airlines with lowest probability
+
+	PI	0.5591474920813863
+	DL	0.6357286573034049
+	PS	0.6532633395307013
+
+Airlines with highest probability
+
+	ML	0.754655015263531
+	NW	0.7507953983927318
+	WN	0.7229850521065315
+
+
+Year 1987-1996
+
+Airlines with lowest probability
+
+	PI	0.5591474920813863
+	DL	0.6298408267430671
+	PS	0.6532633395307013
+
+Airlines with highest probability
+
+	ML (1)	0.754655015263531
+	NW	0.745614353172958
+	PA (1)	0.7199392491555248
+
+
+Year 1987-1997
+
+Airlines with lowest probability
+
+	PI	0.5591474920813863
+	DL	0.6284676703522092
+	PS	0.6532633395307013
+
+Airlines with highest probability
+
+	ML (1)	0.754655015263531
+	NW	0.737646816589092
+	PA (1)	0.7199392491555248
+
+Year 1987-1998
+
+Airlines with lowest probability
+
+	PI	0.5591474920813863
+	DL	0.6355525868001551
+	PS	0.6532633395307013
+
+Airlines with highest probability
+
+	ML (1)	0.754655015263531
+	NW	0.7325935400359829
+	PA (1)	0.7199392491555248
+
+
+Year 1987-1999
+
+Airlines with lowest probability
+
+	PI	0.5591474920813863
+	DL	0.6408000788566849
+	PS	0.6532633395307013
+
+Airlines with highest probability
+
+	ML (1)	0.754655015263531
+	NW	0.7345064217927747
+	PA (1)	0.7199392491555248
+
+
+Year 1987-2000
+
+Airlines with lowest probability
+
+	PI	0.5591474920813863
+	DL	0.6436131369359005
+	AS	0.650767375995101
+
+Airlines with highest probability
+
+	AQ	0.8087084599097855
+	ML (1)	0.754655015263531
+	NW	0.7337999145696328
+
+
+Year 1987-2001
+
+Airlines with lowest probability
+
+	PI	0.5591474920813863
+	AS	0.6454988293451901
+	DL	0.6479982645463641
+
+Airlines with highest probability
+
+	ML (1)	0.754655015263531
+	AQ	0.7451837077139827
+	NW	0.7355103462977273
+
+
+Year 1987-2002
+
+Airlines with lowest probability
+
+	PI	0.5591474920813863
+	AS	0.6487162251268451
+	DL	0.651318869428729
+
+Airlines with highest probability
+
+	ML (1)	0.754655015263531
+	AQ	0.7451837077139827
+	NW	0.736673590411549
+
+
+Year 1987-2003
+
+Airlines with lowest probability
+
+	PI	0.5591474920813863
+	PS	0.6532633395307013
+	AS	0.6555286608833546
+
+
+Airlines with highest probability
+
+	HA	0.8441991786447639
+	OO	0.8161005947219072
+	XE	0.7600109623853154
+
+
+Year 1987-2004
+
+Airlines with lowest probability
+
+	PI	0.5591474920813863
+	PS	0.6532633395307013
+	DL	0.6568957513397243
+
+
+Airlines with highest probability
+
+	HA	0.8900102357821394
+	OO	0.783947364673379
+	ML (1)	0.754655015263531
+
+
+Year 1987-2005
+
+Airlines with lowest probability
+
+	PI	0.5591474920813863
+	PS	0.6532633395307013
+	AS	0.6533182989965091
+
+Airlines with highest probability
+
+	HA	0.9019354714399946
+	OO	0.7711106632504116
+	ML (1)	0.754655015263531
+
+
+Year 1987-2006
+
+Airlines with lowest probability
+
+	PI	0.5591474920813863
+	EV	0.6509319144227964
+	AS	0.6530854709896862
+
+
+Airlines with highest probability
+
+	HA	0.9021976469379367
+	AQ	0.7799136996666598
+	ML (1)	0.754655015263531
+
+
+Year 1987-2007
+
+Airlines with lowest probability
+
+	PI	0.5591474920813863
+	EV	0.6311557363529812
+	AS	0.6522591216855848
+
+
+Airlines with highest probability
+
+	HA	0.9017609510174961
+	AQ	0.8053772042711558
+	ML (1)	0.754655015263531
+
+
+Year 1987 - 2008
+
+Airlines with lowest probability
+
+	PI	0.5591474920813863
+	EV	0.6387219445952296
+	PS	0.6532633395307013
+
+Airlines with highest probability
+
+	HA	0.890349960968852
+	AQ	0.8100483806028764
+	ML (1)	0.754655015263531
+
+############################################################################################
+(b) The 3 airports with the shortest/longest average taxi time per flight (both in and out)
+############################################################################################
+
+Year 1987-1994: Taxi Data not available
+
+Year 1995
+
+Airports with shortest taxi time
+
+	GUM	3.4761904761904763
+	KSM	3.9849624060150375
+	DUT	4.191292875989446
+
+Airports with longest taxt time
+
+	JFK	16.125534471373985
+	EWR	14.660862740803607
+	DFW	14.176996975494419
+
+
+Year 1995-1996
+
+Airports with shortest taxi time
+
+	GUM	3.4295302013422817
+	KSM	3.802030456852792
+	DUT	3.953658536585366
+
+Airports with longest taxt time
+
+	JFK	16.914142785124287
+	EWR	15.301810349922189
+	DFW	14.222427159701798
+
+
+Year 1995-1997
+
+Airports with shortest taxi time
+
+	GUM	3.4066666666666667
+	KSM	3.802030456852792
+	DUT	3.8598045204642637
+
+Airports with longest taxt time
+
+	JFK	16.888491810089477
+	EWR	15.672909418236278
+	DFW	14.218731745521676
+
+Year 1995-1998
+
+Airports with shortest taxi time
+
+	GUM	3.4066666666666667
+	KSM	3.802030456852792
+	DUT	3.8427768166089966
+
+Airports with longest taxt time
+
+	JFK	17.14430383412487
+	EWR	16.232759142955228
+	DFW	14.06996054027045
+
+
+Year 1995-1999
+
+Airports with shortest taxi time
+
+	GUM	3.4066666666666667
+	DUT	3.6560636182902586
+	KSM	3.802030456852792
+
+Airports with longest taxt time
+
+	JFK	17.348365871925527
+	EWR	16.649576892662143
+	DFW	14.05426914979551
+
+
+Year 1995-2000
+
+Airports with shortest taxi time
+
+	GUM	3.4066666666666667
+	DUT 	3.5764945652173914
+	KSM	3.802030456852792
+
+Airports with longest taxt time
+
+	JFK	17.616169119728546
+	EWR	16.814609855571952
+	LGA	14.507535564452269
+
+
+
+Year 1995-2001
+
+Airports with shortest taxi time
+
+	GUM	3.4066666666666667
+	DUT	3.605410447761194
+	KSM	3.802030456852792
+
+Airports with longest taxt time
+
+	JFK	17.451648725701144
+	EWR	16.799488854350237
+	LGA	14.692579314997339
+
+
+Year 1995-2002
+
+Airports with shortest taxi time
+
+	GUM	3.4066666666666667
+	DUT	3.509649820931158
+	KSM	3.802030456852792
+
+Airports with longest taxt time
+
+	ACY	169.5
+	JFK	17.35488640211598
+	EWR	16.670023986406115
+
+
+Year 1995-2003
+
+Airports with shortest taxi time
+
+	DUT	3.366929133858268
+	GUM	3.4066666666666667
+	MKK	3.4390243902439024
+
+Airports with longest taxt time
+
+	VLD	20.803848750844026
+	PHF	18.289991682838924
+	JFK	17.031328375157514
+
+
+Year 1995-2004
+
+Airports with shortest taxi time
+
+	PUB	1.125
+	BFF	2.0
+	DUT	3.357625649913345
+
+Airports with longest taxt time
+
+	CKB	229.66666666666666
+	MKK	45.77816291161179
+	GNV	29.259280834613143
+
+
+Year 1995-2005
+
+Airports with shortest taxi time
+
+	PUB	0.6923076923076923
+	BFF	2.0
+	FMN	3.125
+
+Airports with longest taxt time
+
+	CKB	212.3846153846154
+	MKK	45.77816291161179
+	FLO	30.613598946328615
+
+
+Year 1995-2006
+
+Airports with shortest taxi time
+
+	PUB	0.6
+	BFF	2.0
+	PVU	2.5555555555555554
+
+Airports with longest taxt time
+
+	CKB	197.85714285714286
+	MKK	45.77816291161179
+	VLD	28.221441947565545
+
+
+Year 1995-2007
+
+Airports with shortest taxi time
+
+	PUB	0.5294117647058824
+	BFF	1.3333333333333333
+	CYS	1.3333333333333333
+
+Airports with longest taxt time
+
+	CKB	197.85714285714286
+	MKK	45.77816291161179
+	VLD	24.602860715960606
+
+
+Year 1995-2008
+
+Airports with shortest taxi time
+
+	BFF     1.3333333333333333
+	CYS	1.3333333333333333
+	PVU	1.7692307692307692
+
+Airports with longest taxt time
+
+	CKB	197.85714285714286
+	MKK	45.77816291161179
+	VLD	22.280210396885032
+
+
+####################################
+(c) Most common Cancellation causes
+####################################
+
+Cancellation data not available for years 1987-2002
+
+Year 2003
+
+A       22402
+
+Year 2003-2004
+
+A       81754
+
+Year 2003-2005
+
+A       141104
+
+Year 2003-2006
+
+A       196759
+
+Year 2003-2007
+
+A       263538
+
+Year 2003-2008
+ 
+A	317868
+
+
